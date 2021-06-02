@@ -1,2 +1,2 @@
 # JS-wordsmith
- A wordsmith website from codecademy
+ A wordsmith website
